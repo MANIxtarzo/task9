@@ -1,0 +1,50 @@
+*{
+    background-color:rgb(34, 2, 67) ;
+}
+.parent{
+    border: 5px solid rgb(255, 255, 255);
+    margin-right: 15%;
+    height: 500px;  
+    background-color:rgb(47, 4, 91) ;
+}
+
+.ch1{
+    
+    border: 5px solid rgb(255, 255, 255);
+    margin-right:5%;
+    margin-left: 5%;
+    margin-top:40px;
+    margin-bottom: 20px;
+    height: 400px;
+    background-color: rgb(63, 5, 122);
+}
+.ch2{
+    
+    border: 5px solid rgb(255, 255, 255);
+    margin-right:50%;
+    margin-left: 5%;
+    margin-top:40px;
+    margin-bottom: 20px;
+    height: 300px;
+    background-color:rgb(93, 7, 180) ;
+}
+.ch3{
+    
+    border: 5px solid rgb(255, 255, 255);
+    margin-right:10%;
+    margin-left: 10%;
+    margin-top:40px;
+    margin-bottom:20px    ;
+    height: 200px;
+    background-color:rgb(115, 12, 217) ;
+}
+.ch4{
+    
+    border: 5px solid rgb(255, 255, 255);
+    margin-right:10%;
+    margin-left: 10%;
+    margin-top:40px;
+    margin-bottom:20px    ;
+    height: 100px;
+    background-color:rgb(136, 17, 255) ;
+}
